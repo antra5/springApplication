@@ -3,13 +3,15 @@ package com.example.springSession.dto;
 public class SearchRequestDTO {
     private String searchTerm;
 
-    public String getProduct() {
+    public void setSearchTerm(String searchTerm) {
+        this.searchTerm = searchTerm;
+    }
+
+    public String getSearchTerm() {
         return searchTerm;
     }
 
-    public void setProduct(String searchTerm) {
-        this.searchTerm = searchTerm;
-    }
+
 
 }
 

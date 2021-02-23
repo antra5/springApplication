@@ -2,7 +2,7 @@ package com.example.springSession.dto;
 
 public class Products {
     private boolean inStock;
-    private int salesPrice;
+    private double salesPrice;
     private String description;
     private String title;
 
@@ -14,11 +14,11 @@ public class Products {
         this.inStock = inStock;
     }
 
-    public int getSalesPrice() {
+    public double getSalesPrice() {
         return salesPrice;
     }
 
-    public void setSalesPrice(int salesPrice) {
+    public void setSalesPrice(double salesPrice) {
         this.salesPrice = salesPrice;
     }
 
