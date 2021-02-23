@@ -5,4 +5,5 @@ import com.example.springSession.dto.SearchRequestDTO;
 
 public interface ProductService {
     ProductResponseDTO getProduct(SearchRequestDTO searchRequestDTO);
+    //ProductResponseDTO getLocationProducts(SearchRequestDTO searchRequestDTO);
 }
