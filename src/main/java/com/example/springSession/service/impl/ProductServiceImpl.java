@@ -1,6 +1,5 @@
 package com.example.springSession.service.impl;
 
-//import com.example.springSession.client.SearchClient;
 import com.example.springSession.client.SearchClient;
 import com.example.springSession.constants.SolrFieldNames;
 import com.example.springSession.dto.ProductResponseDTO;
@@ -22,6 +21,7 @@ import java.util.concurrent.TimeUnit;
 
 @Service
 public class ProductServiceImpl implements ProductService, SolrFieldNames {
+    //private static final
     ExecutorService exe= Executors.newFixedThreadPool(2);
     @Autowired
     private SearchClient searchClient;
@@ -44,8 +44,8 @@ public class ProductServiceImpl implements ProductService, SolrFieldNames {
                 products.setTitle(title);
                 String desc = (String) productLocationResponseList.get(i).get(DESCRIPTION);
                 products.setDescription(desc);
-                double price = (double) productLocationResponseList.get(i).get("salePrice");
-                products.setSalesPrice(price);
+//                double price = (double) productLocationResponseList.get(i).get("salePrice");
+//                products.setSalesPrice(price);
                 int val = (int) productLocationResponseList.get(i).get(ISINSTOCK);
                 boolean b;
                 if (val == 1)
@@ -70,8 +70,8 @@ public class ProductServiceImpl implements ProductService, SolrFieldNames {
                 products.setTitle(title);
                 String desc = (String) productResponseList.get(i).get(DESCRIPTION);
                 products.setDescription(desc);
-                double price = (double) productResponseList.get(i).get("salePrice");
-                products.setSalesPrice(price);
+//                double price = (double) productResponseList.get(i).get("salePrice");
+//                products.setSalesPrice(price);
                 int val = (int) productResponseList.get(i).get(ISINSTOCK);
                 boolean b;
                 if (val == 1)

@@ -1,0 +1,50 @@
+{
+  "responseHeader":{
+    "zkConnected":true,
+    "status":0,
+    "QTime":1,
+    "params":{
+      "q":"samsung",
+      "fl":"name,isInStock,description"}},
+  "response":{"numFound":3458,"start":0,"numFoundExact":true,"docs":[
+      {
+        "isInStock":1,
+        "description":"Samsung Battery for Samsung S6810 merupakan baterai cadangan atau pengganti dengan kapasitas 1500 mAh serta memiliki tegangan 4 volt. Baterai ini menggunakan baterai Li-Ion berkualitas dan tahan lama serta kompatibel dengan samsung galaxy Fame S6810.",
+        "name":"Samsung Battery for Samsung S6810"},
+      {
+        "isInStock":1,
+        "description":"Samsung Ultra Thin Softcase Casing for Samsung S6 EDGE, hadir untuk melindungi smartphone dari goresan, benturan, dan debu, serta memiliki bentuk yang presisi, sehingga memudahkan Anda untuk mengakses kek semua tombol atau port. Case ini didesain fit &amp; thin yang terbuat dari bahan silicon berkualitas sehingga nyaman untuk di genggam dan mudah untuk dilepas atau dipasang.",
+        "name":"Samsung Ultra Thin Softcase Casing for Samsung S6 EDGE"},
+      {
+        "isInStock":1,
+        "description":"Samsung Original Travel Charger for Samsung Galaxy Note 8 or Samsung Galaxy S8 [Fast Charging] merupakan charger original samsung yang dikhususkan untuk mengisi daya Samsung Galaxy Note 8 or Samsung Galaxy S8 atau gadget yang memiliki port type C. Charger ini memiliki output 2A dan serta fitur fast charging.' Spesifikasi : Model : EP-TA20EBE Connector interface : Type-C Input : 100-240V, 50-60Hz, 0.50A Output : 9.0V/ 1.67A or 5.0V/ 2.0A",
+        "name":"Samsung Original Travel Charger for Samsung Galaxy Note 8 or Samsung Galaxy S8 [Fast Charging]"},
+      {
+        "isInStock":1,
+        "description":"Samsung Original Travel Charger for Samsung Galaxy Note 8 or Samsung Galaxy S8 [Fast Charging] merupakan charger original samsung yang dikhususkan untuk mengisi daya Samsung Galaxy Note 8 or Samsung Galaxy S8 atau gadget yang memiliki port type C. Charger ini memiliki output 2A dan serta fitur fast charging.' Spesifikasi : Model : EP-TA20EBE Connector interface : Type-C Input : 100-240V, 50-60Hz, 0.50A Output : 9.0V/ 1.67A or 5.0V/ 2.0A",
+        "name":"Samsung Original Travel Charger for Samsung Galaxy Note 8 or Samsung Galaxy S8 [Fast Charging]"},
+      {
+        "isInStock":1,
+        "description":"Samsung Ultra Thin Softcase Casing for Samsung Galaxy S6, hadir untuk melindungi smartphone dari goresan, benturan, dan debu, serta memiliki bentuk yang presisi, sehingga memudahkan Anda untuk mengakses kek semua tombol atau port. Case ini didesain fit &amp; thin yang terbuat dari bahan silicon berkualitas sehingga nyaman untuk di genggam dan mudah untuk dilepas atau dipasang.",
+        "name":"Samsung Ultra Thin Softcase Casing for Samsung Galaxy S6"},
+      {
+        "isInStock":1,
+        "description":"AccessoriesEnhance your Galaxy Z Flip experienceTake Galaxy Z Flip to a whole new dimension with your choice of cases.The Leather Cover features soft calf leather and a thin profile for elegant folds.*Accessories sold separately. Model and color availability may vary by country or carrier. *Genuine leather outside and suction pad on each piece for attachment. *Hanya Leather Cover Tidak Termasuk Handphone   Key SpecsBrand CompatibilitySamsungModel CompatibilitySamsung Galaxy Z FlipCase StyleCarrying caseCase TypeStandard CaseGeneralProduct NameFlip Leather Cover Case for Samsung Galaxy Z FlipBrandSamsungCase StyleCarrying caseCase TypeStandard Case  ",
+        "name":"Leather Cover Samsung Galaxy Z Flip [Original Samsung]"},
+      {
+        "isInStock":1,
+        "description":"merupakan casing yang dapat melindungi gadget dari benturan, goresan dan debu, serta memiliki bentuk presisi sehingga memudahkan Anda untuk mengakses ke semua tombol atau port. Casing ini didesain ergonomis dan terbuat dari bahan TPU yang fleksibel sehingga nyaman untuk digenggam.",
+        "name":"Samsung Araree A Casing for Samsung A50"},
+      {
+        "isInStock":1,
+        "description":"merupakan casing yang dapat melindungi gadget dari benturan, goresan dan debu, serta memiliki bentuk presisi sehingga memudahkan Anda untuk mengakses ke semua tombol atau port. Casing ini didesain ergonomis dan terbuat dari bahan TPU yang fleksibel sehingga nyaman untuk digenggam.",
+        "name":"Samsung Araree A Casing for Samsung A50"},
+      {
+        "isInStock":1,
+        "description":"merupakan casing yang dapat melindungi gadget dari benturan, goresan dan debu, serta memiliki bentuk presisi sehingga memudahkan Anda untuk mengakses ke semua tombol atau port. Casing ini didesain ergonomis dan terbuat dari bahan TPU yang fleksibel sehingga nyaman untuk digenggam.",
+        "name":"Samsung Araree A Casing for Samsung A50"},
+      {
+        "isInStock":1,
+        "description":"Charger yang terbuat dari bahan berkualitas dan kompatibel dengan semua jenis smartphone yang mendukung type-C. Spesifikasi : Made In Vietnam Connector interface : USB Type-C input : 100-240V, 50-60Hz, 0.50A Output : 9.0V ==1.67A or 5.0V ==2.0A USB.3.0 Compatible Cable Panjang kabel 1.2 Meter Packing Box",
+        "name":"Samsung Fast Charging Type C Charger for Samsung S8 or Samsung S8+ [Original]"}]
+  }}
